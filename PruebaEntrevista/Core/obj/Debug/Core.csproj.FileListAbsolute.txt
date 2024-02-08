@@ -1,0 +1,6 @@
+D:\PruebasTrabajo\PruebaEntrevista\Core\bin\Debug\Core.dll
+D:\PruebasTrabajo\PruebaEntrevista\Core\bin\Debug\Core.pdb
+D:\PruebasTrabajo\PruebaEntrevista\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\PruebasTrabajo\PruebaEntrevista\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\PruebasTrabajo\PruebaEntrevista\Core\obj\Debug\Core.dll
+D:\PruebasTrabajo\PruebaEntrevista\Core\obj\Debug\Core.pdb

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Presentation.UI.Front.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Presentation.UI.Front.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Presentation.UI.Front.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Presentation.UI.Front.props",
+      "PackagePath": "build\\Presentation.UI.Front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentation.UI.Front.props",
+      "PackagePath": "buildMultiTargeting\\Presentation.UI.Front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Presentation.UI.Front.props",
+      "PackagePath": "buildTransitive\\Presentation.UI.Front.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

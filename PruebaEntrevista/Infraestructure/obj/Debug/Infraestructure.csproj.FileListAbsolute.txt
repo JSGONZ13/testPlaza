@@ -1,0 +1,9 @@
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\bin\Debug\Infraestructure.dll
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\bin\Debug\Infraestructure.pdb
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\obj\Debug\Infraestructure.csproj.AssemblyReference.cache
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\obj\Debug\Infraestructure.dll
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\obj\Debug\Infraestructure.pdb
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\bin\Debug\Core.dll
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\bin\Debug\Core.pdb
+D:\PruebasTrabajo\PruebaEntrevista\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete

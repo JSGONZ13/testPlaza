@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\Presentation.UI.Front.csproj": {}
+  },
+  "projects": {
+    "D:\\PruebasTrabajo\\PruebaEntrevista\\Application\\Application.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\PruebasTrabajo\\PruebaEntrevista\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Application\\Application.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj": {
+                "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj"
+              },
+              "D:\\PruebasTrabajo\\PruebaEntrevista\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Infraestructure\\Infraestructure.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\PruebasTrabajo\\PruebaEntrevista\\Infraestructure\\Infraestructure.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\PruebasTrabajo\\PruebaEntrevista\\Infraestructure\\Infraestructure.csproj",
+        "projectName": "Infraestructure",
+        "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Infraestructure\\Infraestructure.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj": {
+                "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\Presentation.UI.Front.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\Presentation.UI.Front.csproj",
+        "projectName": "Presentation.UI.Front",
+        "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\Presentation.UI.Front.csproj",
+        "packagesPath": "C:\\Users\\MSI GAMING\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\PruebaEntrevista\\Presentation.UI.Front\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MSI GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\PruebasTrabajo\\PruebaEntrevista\\Application\\Application.csproj": {
+                "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Application\\Application.csproj"
+              },
+              "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj": {
+                "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Core\\Core.csproj"
+              },
+              "D:\\PruebasTrabajo\\PruebaEntrevista\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "D:\\PruebasTrabajo\\PruebaEntrevista\\Infraestructure\\Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

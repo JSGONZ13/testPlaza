@@ -1,0 +1,34 @@
+﻿@page "/empleado"
+@using System.Diagnostics
+
+<h3>Empleado</h3>
+
+<form>
+    <div class="form-group">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" class="form-control" @bind="empleado.Nombre" />
+    </div>
+    <div class="form-group">
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" class="form-control" @bind="empleado.Apellido" />
+    </div>
+    <div class="form-group">
+        <label for="puesto">Puesto:</label>
+        <input type="text" id="puesto" class="form-control" @bind="empleado.Puesto" />
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
+@code {
+    private Empleado_ empleado = new Empleado_();
+
+    // Clase para almacenar los datos del empleado
+    
+    public class Empleado_
+    {
+
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string Puesto { get; set; }
+    }
+}

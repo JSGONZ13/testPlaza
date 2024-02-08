@@ -1,0 +1,14 @@
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\bin\Debug\net8.0\Presentation.ConsoleApp.exe
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\bin\Debug\net8.0\Presentation.ConsoleApp.deps.json
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\bin\Debug\net8.0\Presentation.ConsoleApp.runtimeconfig.json
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\bin\Debug\net8.0\Presentation.ConsoleApp.dll
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\bin\Debug\net8.0\Presentation.ConsoleApp.pdb
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\Presentation.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\Presentation.ConsoleApp.AssemblyInfoInputs.cache
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\Presentation.ConsoleApp.AssemblyInfo.cs
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\Presentation.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\Presentation.ConsoleApp.dll
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\refint\Presentation.ConsoleApp.dll
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\Presentation.ConsoleApp.pdb
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\Presentation.ConsoleApp.genruntimeconfig.cache
+D:\PruebasTrabajo\PruebaEntrevista\Presentation.ConsoleApp\obj\Debug\net8.0\ref\Presentation.ConsoleApp.dll
